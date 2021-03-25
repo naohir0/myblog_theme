@@ -100,4 +100,4 @@
 
 <?php the_posts_pagination()?>
 
-<?php get_footer(); ?>
+<?php get_footer(); ?> 
